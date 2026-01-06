@@ -1,6 +1,4 @@
 <img src="githubbanner.png"/>
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/swayam-jethi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -71,12 +69,17 @@
 <br/>
 <br/>
 
-<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+<h2 align="center">
+  <img src="/imgs/title3.png" width="25"/> <em> Statistics </em>
+</h2>
 
-<div align = "center"> 
+<div align="center">
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-![](https://github-readme-stats-lilac-nu-35.vercel.app/api?username=Swayam42&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Swayam42&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+
+![](https://github-readme-stats-lilac-nu-35.vercel.app/api?username=Swayam42&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)
+![](https://nirzak-streak-stats.vercel.app/?user=Swayam42&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swayam42&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
