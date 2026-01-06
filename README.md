@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="githubanner.png"/>
-</p>
+<img src="githubanner.png"/>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swayam-jethi/" target="_blank">
