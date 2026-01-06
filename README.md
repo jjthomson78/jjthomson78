@@ -1,4 +1,4 @@
-<img src="githubanner.png"/>
+<img src="githubbanner.png"/>
 
 
 <p align="center">
